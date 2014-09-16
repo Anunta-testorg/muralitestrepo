@@ -19,7 +19,7 @@ namespace TestGitApplication
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("hello123");
+            MessageBox.Show("hello123 + added new");
 
         }
     }
