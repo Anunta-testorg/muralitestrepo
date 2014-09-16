@@ -21,8 +21,7 @@ namespace TestGitApplication
         {
             
             MessageBox.Show("hello123 + added new from web");
-            MessageBox.Show("hello123 + added new from web");
-
+            MessageBox.Show("hello123 + added second message");
 
         }
     }
